@@ -8,4 +8,5 @@ This smart contract is written in Solidity.
 - Holesky (id: `17000`; compiler: `^0.8.25`) [contract address](https://holesky.etherscan.io/address/0x99672b44d224b468191F7Fdb6b0b67d7F5908F61)
 
 #### frontend
+- lazybank included as well
 - lazyshop https://a.gguf.us
